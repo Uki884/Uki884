@@ -1,1 +1,1 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Uki884)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=uki884&count_private=true&theme=dark)
